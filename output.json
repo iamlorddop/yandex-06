@@ -1,0 +1,11 @@
+{
+  "ru": {
+    "key": "first:key",
+    "key2": "first:key2"
+  },
+  "en": {
+    "key": "first:key",
+    "key2": "first:key2"
+  },
+  "test": "en:key"
+}
